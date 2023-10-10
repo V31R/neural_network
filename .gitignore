@@ -30,6 +30,10 @@
 *.exe
 *.out
 *.app
+
+# saves result
+*.xls
+
 /x64
 /neural_network_tests/x64
 /.vs/neural_network

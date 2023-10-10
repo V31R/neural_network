@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/x64
+/neural_network_tests/x64
+/.vs/neural_network
+/neural_network/x64
+/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7
